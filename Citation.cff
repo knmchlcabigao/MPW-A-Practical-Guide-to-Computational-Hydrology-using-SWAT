@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cabigao"
+  given-names: "Kean Michael"
+  orcid: "https://orcid.org/0009-0000-3687-4736"
+title: "Modeling Philippine Watersheds: A Practical Guide to Computational Hydrology using the Soil and Water Assessment Tool (SWAT)"
+version: 1.0.0
+doi: 10.5281/zenodo.20825154
+date-released: 2026-06-24
+url: "https://github.com/knmchlcabigao/MPW-A-Practical-Guide-to-Computational-Hydrology-using-SWAT"
