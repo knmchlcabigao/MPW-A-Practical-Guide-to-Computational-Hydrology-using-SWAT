@@ -9,3 +9,11 @@ version: 1.0.0
 doi: 10.5281/zenodo.20825154
 date-released: 2026-06-24
 url: "https://github.com/knmchlcabigao/MPW-A-Practical-Guide-to-Computational-Hydrology-using-SWAT"
+
+preferred-citation:
+  type: manual
+  authors:
+    - family-names: Cabigao
+      given-names: Kean Michael
+  title: "Modeling Philippine Watersheds: A Practical Guide to Computational Hydrology using the Soil and Water Assessment Tool (SWAT)"
+  doi: "10.5281/zenodo.20825154"
